@@ -4,6 +4,7 @@ public class DemoClass {
         system.debug('This is a demo');
         //Code that lives in merge
 
+        //Changes
     }
 
 }
